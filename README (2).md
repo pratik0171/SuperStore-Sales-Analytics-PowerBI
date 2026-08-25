@@ -183,9 +183,9 @@ Based on the dashboard:
 
 ## 🖥️ Dashboard Preview
 
-![Uploading Screenshot 2026-08-25 115407.png…]()
+<img width="1282" height="717" alt="Screenshot 2026-08-25 115407" src="https://github.com/user-attachments/assets/6882dffe-415b-43e0-a808-7166fc4e4455" />
 
-![Uploading Screenshot 2026-08-25 115507.png…]()
+<img width="1280" height="718" alt="Screenshot 2026-08-25 115507" src="https://github.com/user-attachments/assets/a734f29f-d73d-4a65-950a-91c45be278c9" />
 
 
 
