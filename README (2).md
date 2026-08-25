@@ -1,11 +1,5 @@
 # SuperStore Sales & Forecasting Dashboard — Power BI
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![DAX](https://img.shields.io/badge/DAX-Analytics-blue)
-![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green)
-![Forecasting](https://img.shields.io/badge/Analytics-Sales%20Forecasting-orange)
-![Retail Analytics](https://img.shields.io/badge/Domain-Retail%20Analytics-purple)
-
 ## 📊 Project Overview
 
 The **SuperStore Sales & Forecasting Dashboard** is an interactive Power BI project that analyzes sales, profit, orders, returns, shipping performance, customer segments, product categories, regions, and state-level performance.
@@ -189,15 +183,11 @@ Based on the dashboard:
 
 ## 🖥️ Dashboard Preview
 
-### Sales Dashboard
+![Uploading Screenshot 2026-08-25 115407.png…]()
 
-![SuperStore Sales Dashboard](Screenshots/SuperStore_Sales_Dashboard.png)
+![Uploading Screenshot 2026-08-25 115507.png…]()
 
-### Sales Forecast Dashboard
 
-![SuperStore Sales Forecast](Screenshots/SuperStore_Sales_Forecast.png)
-
----
 
 ## ⚙️ Data Preparation
 
@@ -294,30 +284,3 @@ Potential enhancements include:
 
 ---
 
-## 📂 Project Structure
-
-```text
-SuperStore-Sales-Forecasting-PowerBI/
-│
-├── README.md
-├── SuperStore_Sales_Dashboard.pbix
-│
-├── Dataset/
-│   └── SuperStore.csv
-│
-└── Screenshots/
-    ├── SuperStore_Sales_Dashboard.png
-    └── SuperStore_Sales_Forecast.png
-```
-
----
-
-## 👤 Author
-
-**Pratik More**
-
-Data Analyst | Power BI | SQL | Python | Data Analytics
-
----
-
-⭐ If you find this project useful, consider giving the repository a star.
